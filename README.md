@@ -1,4 +1,4 @@
-# apnacollage-demo
+# Gitrepo-demo
 This is my first Git Repository.
 <br>
 Author - Mohammed Arifi (Git pro)
